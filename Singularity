@@ -1,5 +1,5 @@
 bootstrap: docker
-From: tensorflow/tensorflow:latest
+From: ubuntu:latest
 IncludeCmd: yes
 
 %runscript
