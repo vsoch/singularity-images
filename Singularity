@@ -1,5 +1,5 @@
 bootstrap: docker
-From: ubuntu:latest
+From: ubuntu:14.04
 IncludeCmd: yes
 
 %runscript
