@@ -4,7 +4,7 @@ IncludeCmd: yes
 
 %post
 
-    echo "Hello Three times, Singularity!"
+    echo "Hello World, Singularity!"
 
 %runscript
 
