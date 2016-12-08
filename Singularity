@@ -8,5 +8,5 @@ IncludeCmd: yes
 
 %runscript
 
-    exec /usr/bin/python "$@"
+    exec echo "$@"
 
