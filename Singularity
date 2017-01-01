@@ -1,5 +1,5 @@
 bootstrap: docker
-From: nginx:latest
+From: redis:latest
 
 %post
 
