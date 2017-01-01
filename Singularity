@@ -1,6 +1,5 @@
 bootstrap: docker
-From: ubuntu:14.04
-IncludeCmd: yes
+From: mongo:latest
 
 %post
 
