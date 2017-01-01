@@ -1,5 +1,5 @@
 bootstrap: docker
-From: mongo:latest
+From: ubuntu:latest
 
 %post
 
