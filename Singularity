@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: redis:latest
+From: mongo:latest
 
 %post
 
