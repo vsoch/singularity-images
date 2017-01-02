@@ -1,5 +1,5 @@
 BootStrap:docker
-From:redis:latest
+From:ubuntu:latest
 
 %post
 
