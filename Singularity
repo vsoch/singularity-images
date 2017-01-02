@@ -1,5 +1,5 @@
-Bootstrap: docker
-From: redis:latest
+BootStrap:docker
+From:redis:latest
 
 %post
 
