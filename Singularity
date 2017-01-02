@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: busybox:latest
+From: mongo:latest
 
 %post
 
