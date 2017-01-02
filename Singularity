@@ -1,5 +1,5 @@
 bootstrap: docker
-From: ubuntu:latest
+From: postgres:latest
 
 %post
 
