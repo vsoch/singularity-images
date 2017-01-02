@@ -1,4 +1,4 @@
-BootStrap: docker
+Bootstrap: docker
 From: busybox:latest
 
 %post
