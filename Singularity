@@ -1,9 +1,9 @@
 bootstrap: docker
-From: mongo:latest
+From: postgres:latest
 
 %post
 
-    echo "Chicken nugget butt hotdog!"
+    echo "Chicken nuggets! butt! hotdog!"
 
 %runscript
 
