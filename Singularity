@@ -1,5 +1,5 @@
-bootstrap: docker
-From: nginx:latest
+BootStrap: docker
+From: busybox:latest
 
 %post
 
