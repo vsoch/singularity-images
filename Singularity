@@ -1,5 +1,5 @@
 bootstrap: docker
-From: postgres:latest
+From: nginx:latest
 
 %post
 
