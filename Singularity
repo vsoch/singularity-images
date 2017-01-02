@@ -1,5 +1,5 @@
 BootStrap:docker
-From:ubuntu:latest
+From:nginx:latest
 
 %post
 
