@@ -1,5 +1,5 @@
 BootStrap:docker
-From:nginx:latest
+From:mongo:latest
 
 %post
 
