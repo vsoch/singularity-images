@@ -1,9 +1,9 @@
 BootStrap:docker
-From:mongo:latest
+From:postgres:latest
 
 %post
 
-    echo "Chicken nuggets! butt! hotdog!"
+    echo "If only there was a time to sleep..."
 
 %runscript
 
