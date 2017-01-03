@@ -1,9 +1,9 @@
 BootStrap:docker
-From:postgres:latest
+From:mongo:latest
 
 %post
 
-    echo "If only there was a time to sleep..."
+    echo "Kibbles and bits."
 
 %runscript
 
