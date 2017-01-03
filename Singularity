@@ -3,7 +3,7 @@ From:mongo:latest
 
 %post
 
-    echo "Kibbles and bits."
+    echo "Kibbles and bits, but really more bits."
 
 %runscript
 
