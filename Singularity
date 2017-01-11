@@ -1,5 +1,5 @@
 BootStrap:docker
-From:tensorflow:latest
+From:tensorflow/tensorflow:latest
 
 %post
 
