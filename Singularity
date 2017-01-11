@@ -3,7 +3,7 @@ From:tensorflow/tensorflow:latest
 
 %post
 
-    echo "still Testing a more substantial image"
+    echo "bwaahahhahaha"
 
 %runscript
 
