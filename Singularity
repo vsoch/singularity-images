@@ -1,11 +1,11 @@
 BootStrap:docker
-From:nginx:latest
+From:tensorflow:latest
 
 %post
 
-    echo "Kibbles and bits."
+    echo "Testing a more substantial image"
 
 %runscript
 
-    exec echo "$@"
+    exec echo "Kibbles and bits!"
 
