@@ -3,7 +3,7 @@ From:tensorflow/tensorflow:latest
 
 %post
 
-    echo "Ziggamuffin"
+    echo "Ziggamuffin with padding"
 
 %runscript
 
