@@ -3,9 +3,9 @@ From:tensorflow/tensorflow:latest
 
 %post
 
-    echo "Testing larger tensorflow image"
+    echo "Ziggamuffin"
 
 %runscript
 
-    exec echo "Red fish, blue fish, Wordfish, Turd fish."
+    exec echo "You say piazza, but all I see is pizza.."
 
