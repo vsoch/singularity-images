@@ -3,9 +3,9 @@ From:tensorflow/tensorflow:latest
 
 %post
 
-    echo "bwaahahhahaha"
+    echo "Testing larger tensorflow image"
 
 %runscript
 
-    exec echo "Kibbles and bits!"
+    exec echo "Red fish, blue fish, Wordfish, Turd fish."
 
