@@ -1,5 +1,5 @@
 BootStrap:docker
-From:tensorflow/tensorflow:latest
+From:ubuntu:16.04
 
 %post
 
@@ -7,5 +7,5 @@ From:tensorflow/tensorflow:latest
 
 %runscript
 
-    exec echo "You say piazza, but all I see is pizza.."
+    exec echo "You say please, but all I see is pizza.."
 
