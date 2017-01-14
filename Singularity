@@ -3,7 +3,7 @@ From:ubuntu:16.04
 
 %post
 
-    echo "Ziggamuffin with padding"
+    echo "The sun is shining, the weather is sweet."
 
 %runscript
 
