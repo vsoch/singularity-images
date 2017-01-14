@@ -7,5 +7,5 @@ From:nginx:latest
 
 %runscript
 
-    exec echo "$@"
+    exec echo "zomgwtfbbqtaco!"
 
