@@ -1,5 +1,5 @@
-BootStrap:docker
-From:nginx:latest
+BootStrap: docker
+From: nginx:latest
 
 %post
 
