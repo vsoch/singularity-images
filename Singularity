@@ -3,7 +3,7 @@ From:ubuntu:16.04
 
 %post
 
-    echo "The sun is shining, the weather is sweet..."
+    echo "The sun is shining, the weather is sweeeet..."
 
 %runscript
 
